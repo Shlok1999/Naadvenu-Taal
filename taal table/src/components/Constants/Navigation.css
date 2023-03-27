@@ -1,0 +1,17 @@
+.navigation-section{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.links{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.link{
+    margin-left: 2rem;
+}
